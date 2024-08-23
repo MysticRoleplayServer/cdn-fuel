@@ -175,6 +175,45 @@ Config.ElectricVehicles = { -- List of Electric Vehicles in the Base Game.
     ["24model3"] = {
         isElectric = true,
     },
+    ["foxct"] = {
+        isElectric = true,
+    },
+    ["foxcq"] = {
+        isElectric = true,
+    },
+    ["foxlight"] = {
+        isElectric = true,
+    },
+    ["foxr1s"] = {
+        isElectric = true,
+    },
+    ["foxr1s2"] = {
+        isElectric = true,
+    },
+    ["foxr1t"] = {
+        isElectric = true,
+    },
+    ["foxr1t2"] = {
+        isElectric = true,
+    },
+    ["foxtc"] = {
+        isElectric = true,
+    },
+    ["foxy"] = {
+        isElectric = true,
+    },
+    ["gmcev"] = {
+        isElectric = true,
+    },
+    ["gmcev2"] = {
+        isElectric = true,
+    },
+    ["gmcev3"] = {
+        isElectric = true,
+    },
+    ["gmcev4"] = {
+        isElectric = true,
+    },
 }
 Config.ElectricSprite = 620 -- This is for when the player is in an electric charger, the blips with change to this sprite. (Sprite with a car with a bolt going through it: 620)
 Config.ElectricChargerModel = true -- If you wish, you can set this to false to add your own props, or use a ymap for the props instead.
